@@ -1,0 +1,20 @@
+{
+  "name": "chapter2",
+  "version": "1.0.0",
+  "description": "nodejs course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "elisiomualumene",
+  "license": "MIT",
+
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
